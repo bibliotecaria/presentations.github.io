@@ -6,8 +6,20 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>Slide 1</section>
-        <section>Slide 2</section>
+        <section>
+          <textarea data-markdown>
+          #Last two women standing
+aka
+##Code Club and what it can become
+          </textarea>
+        </section>
+
+        <section>Slide 1 horizontal</section>
+        <section>Slide 2 horizontal</section>
+        <section>
+          <section>Vertical</section>
+<section>Vertical</section>
+</section>
       </div>
     </div>
     <script src="dist/reveal.js"></script>
